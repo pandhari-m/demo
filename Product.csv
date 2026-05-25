@@ -1,0 +1,11 @@
+Product_ID,Product_Name,Category,Price,Stock
+P001,Smartphone X1,Electronics,699,50
+P002,Laptop Pro 15,Electronics,1299,20
+P003,Wireless Earbuds,Electronics,149,100
+P004,Cotton T-Shirt,Clothing,25,200
+P005,Denim Jeans,Clothing,45,150
+P006,Sports Shoes,Footwear,60,80
+P007,Blender 500W,Home Appliances,75,60
+P008,Office Chair,Home Furniture,120,30
+P009,Coffee Maker,Home Appliances,99,40
+P010,LED TV 42 inch,Electronics,399,25
